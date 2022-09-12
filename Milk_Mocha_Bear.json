@@ -1,0 +1,159 @@
+{
+  "name": "Milk_Mocha_Bear",
+  "version": "1.0",
+  "description": "i love these two <3",
+  "authors": [
+    {
+      "name": "Cam",
+      "id": "263728445371056129"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#1a1926",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#FBFBFB",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B6B6B6",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#B6B6B6",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D9F7ED",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#6b0000",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#d62515",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#747474",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#1a1926",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#C4E5DC",
+      "#542ca3"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#C4E5DC",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#292929",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#292929",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#ffffff",
+      "#FFFFFF"
+    ],
+    "TEXT_LINK": [
+      "#ffffff",
+      "#6c56c4"
+    ],
+    "CHANNEL_ICON": [
+      "#ffffff",
+      "#6c56c4"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#C4E5DC",
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_200": "#ffffff",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#C8C8C8",
+    "PRIMARY_DARK_500": "#0c0c0c",
+    "PRIMARY_DARK_600": "#C4E5DC",
+    "PRIMARY_DARK_630": "#1f1f1f",
+    "PRIMARY_DARK_700": "#C4E5DC",
+    "PRIMARY_DARK_800": "#C4E5DC",
+    "PRIMARY_DARK_900": "#C4E5DC"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#C4E5DC"
+  },
+  "background": {
+    "blur": .7,
+    "url": "https://cdn.discordapp.com/attachments/1002035490800795668/1018991026725208084/milkmochabear2.png",
+    "alpha": 1.0
+  }
+}
